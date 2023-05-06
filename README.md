@@ -1,3 +1,3 @@
 # online-store
-### Deploy link: https://nazimajumaniyazova.github.io/online-store/#main-page
+### Deploy link: https://nazimajumaniyazova.github.io/online-store/
 ### Used technologies: HTML/CSS, Typescript 
